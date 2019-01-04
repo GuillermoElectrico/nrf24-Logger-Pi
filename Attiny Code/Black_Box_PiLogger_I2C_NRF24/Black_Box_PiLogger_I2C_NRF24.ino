@@ -1,5 +1,5 @@
 /*  ----------------------------------------------------------------
-    Gateway beteen nrf24l01+ and orange pi zero vía ATTiny85 for PiLog System
+    Gateway beteen nrf24l01+ and Raspberry pi vía ATTiny85 for PiLog System
     --------------------------------------------------------------------
 */
 // añadimos librerías necesarias

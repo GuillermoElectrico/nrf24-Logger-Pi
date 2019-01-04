@@ -1,6 +1,6 @@
 # nrf24-Logger-Pi
 Log nrf24 devices with nfrlite arduino librarie on a Raspberry Pi and plot graphs of your data.
-Its been verified to work with a raspberry pi with a Attiny gateway into nrflite network vía i2c comunication (coming soon PCB and sketch). Used second I2C port in the Raspberry Pi. (Using a raspberry emulate i2c operation in other pins.)
+Its been verified to work with a raspberry pi with a Attiny gateway into nrflite network vía i2c comunication (coming soon PCB and sketch). Used I2C port in the Raspberry Pi.
 
 ### Requirements
 
